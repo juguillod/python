@@ -1,0 +1,2 @@
+rm -rf conda-bld
+rm -rf binder
